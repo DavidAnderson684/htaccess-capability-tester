@@ -2,7 +2,7 @@
 
 namespace HtaccessCapabilityTester\Testers;
 
-use \HtaccessCapabilityTester\TestResult;
+use HtaccessCapabilityTester\TestResult;
 
 /**
  * Class for testing if a .htaccess results in a 500 Internal Server Error

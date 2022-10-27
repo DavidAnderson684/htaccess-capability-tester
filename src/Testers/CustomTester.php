@@ -2,12 +2,12 @@
 
 namespace HtaccessCapabilityTester\Testers;
 
-use \HtaccessCapabilityTester\HtaccessCapabilityTester;
-use \HtaccessCapabilityTester\HttpRequesterInterface;
-use \HtaccessCapabilityTester\HttpResponse;
-use \HtaccessCapabilityTester\SimpleHttpRequester;
-use \HtaccessCapabilityTester\TestResult;
-use \HtaccessCapabilityTester\Testers\Helpers\ResponseInterpreter;
+use HtaccessCapabilityTester\HtaccessCapabilityTester;
+use HtaccessCapabilityTester\HttpRequesterInterface;
+use HtaccessCapabilityTester\HttpResponse;
+use HtaccessCapabilityTester\SimpleHttpRequester;
+use HtaccessCapabilityTester\TestResult;
+use HtaccessCapabilityTester\Testers\Helpers\ResponseInterpreter;
 
 class CustomTester extends AbstractTester
 {

@@ -2,21 +2,21 @@
 
 namespace HtaccessCapabilityTester;
 
-use \HtaccessCapabilityTester\Testers\AbstractTester;
-use \HtaccessCapabilityTester\Testers\AddTypeTester;
-use \HtaccessCapabilityTester\Testers\ContentDigestTester;
-use \HtaccessCapabilityTester\Testers\CrashTester;
-use \HtaccessCapabilityTester\Testers\CustomTester;
-use \HtaccessCapabilityTester\Testers\DirectoryIndexTester;
-use \HtaccessCapabilityTester\Testers\HeaderSetTester;
-use \HtaccessCapabilityTester\Testers\HtaccessEnabledTester;
-use \HtaccessCapabilityTester\Testers\InnocentRequestTester;
-use \HtaccessCapabilityTester\Testers\ModuleLoadedTester;
-use \HtaccessCapabilityTester\Testers\PassInfoFromRewriteToScriptThroughRequestHeaderTester;
-use \HtaccessCapabilityTester\Testers\PassInfoFromRewriteToScriptThroughEnvTester;
-use \HtaccessCapabilityTester\Testers\RewriteTester;
-use \HtaccessCapabilityTester\Testers\RequestHeaderTester;
-use \HtaccessCapabilityTester\Testers\ServerSignatureTester;
+use HtaccessCapabilityTester\Testers\AbstractTester;
+use HtaccessCapabilityTester\Testers\AddTypeTester;
+use HtaccessCapabilityTester\Testers\ContentDigestTester;
+use HtaccessCapabilityTester\Testers\CrashTester;
+use HtaccessCapabilityTester\Testers\CustomTester;
+use HtaccessCapabilityTester\Testers\DirectoryIndexTester;
+use HtaccessCapabilityTester\Testers\HeaderSetTester;
+use HtaccessCapabilityTester\Testers\HtaccessEnabledTester;
+use HtaccessCapabilityTester\Testers\InnocentRequestTester;
+use HtaccessCapabilityTester\Testers\ModuleLoadedTester;
+use HtaccessCapabilityTester\Testers\PassInfoFromRewriteToScriptThroughRequestHeaderTester;
+use HtaccessCapabilityTester\Testers\PassInfoFromRewriteToScriptThroughEnvTester;
+use HtaccessCapabilityTester\Testers\RewriteTester;
+use HtaccessCapabilityTester\Testers\RequestHeaderTester;
+use HtaccessCapabilityTester\Testers\ServerSignatureTester;
 
 /**
  * Main entrance.

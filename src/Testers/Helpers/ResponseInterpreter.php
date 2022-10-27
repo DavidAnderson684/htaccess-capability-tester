@@ -2,9 +2,9 @@
 
 namespace HtaccessCapabilityTester\Testers\Helpers;
 
-use \HtaccessCapabilityTester\HttpResponse;
-use \HtaccessCapabilityTester\TestResult;
-use \HtaccessCapabilityTester\Testers\AbstractTester;
+use HtaccessCapabilityTester\HttpResponse;
+use HtaccessCapabilityTester\TestResult;
+use HtaccessCapabilityTester\Testers\AbstractTester;
 
 /**
  * Class for interpreting responses using a defined interpretation table.

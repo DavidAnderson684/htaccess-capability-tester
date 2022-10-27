@@ -2,7 +2,7 @@
 
 namespace HtaccessCapabilityTester\Testers;
 
-use \HtaccessCapabilityTester\TestResult;
+use HtaccessCapabilityTester\TestResult;
 
 /**
  * Class for testing if a module is loaded.

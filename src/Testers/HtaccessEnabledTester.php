@@ -2,8 +2,8 @@
 
 namespace HtaccessCapabilityTester\Testers;
 
-use \HtaccessCapabilityTester\HtaccessCapabilityTester;
-use \HtaccessCapabilityTester\TestResult;
+use HtaccessCapabilityTester\HtaccessCapabilityTester;
+use HtaccessCapabilityTester\TestResult;
 
 /**
  * Class for testing if .htaccess files are processed

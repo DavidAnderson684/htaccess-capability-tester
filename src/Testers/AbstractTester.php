@@ -2,13 +2,13 @@
 
 namespace HtaccessCapabilityTester\Testers;
 
-use \HtaccessCapabilityTester\HtaccessCapabilityTester;
-use \HtaccessCapabilityTester\HttpRequesterInterface;
-use \HtaccessCapabilityTester\HttpResponse;
-use \HtaccessCapabilityTester\SimpleHttpRequester;
-use \HtaccessCapabilityTester\SimpleTestFileLineUpper;
-use \HtaccessCapabilityTester\TestFilesLineUpperInterface;
-use \HtaccessCapabilityTester\TestResult;
+use HtaccessCapabilityTester\HtaccessCapabilityTester;
+use HtaccessCapabilityTester\HttpRequesterInterface;
+use HtaccessCapabilityTester\HttpResponse;
+use HtaccessCapabilityTester\SimpleHttpRequester;
+use HtaccessCapabilityTester\SimpleTestFileLineUpper;
+use HtaccessCapabilityTester\TestFilesLineUpperInterface;
+use HtaccessCapabilityTester\TestResult;
 
 abstract class AbstractTester
 {
